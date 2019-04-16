@@ -1,0 +1,43 @@
+/******************************** #E84C3D, rgb(232, 76, 61) ****************************/
+
+/************ Color *********************/
+a:hover, .logo a:hover, .mainMenu ul li:hover > a, .mainMenu ul li.active > a, 
+.gridDetails h3 a:hover, .conReading, .widget ul li a:hover, .rN_single a:hover, 
+.contactForm button:hover, .contactMapButton a:hover, .contactMapButton a.active, 
+.foliioMenu ul li:hover, .foliioMenu ul li.active, .panContent a:hover, 
+.singFullDetails h3 a:hover{
+    color: #E84C3D;
+}
+
+
+/*********************** RGBA Background *************************/
+.folioHoverContent, .teamHoverContent, #sblogcarousel .carousel-control:hover{
+    background: rgba(232, 76, 61, .7);
+}
+.singleClient:hover a{
+    background: rgba(232, 76, 61, .4);
+}
+
+
+
+/*********************** Background *************************/
+.skillMain, .s2Process::before, .processHeading::after, 
+.singlePrice:hover a, .singleSelectPrice a, .popularLabel, 
+.searchWidget button:hover, .widget ul li a:hover::before, #backToTop:hover, 
+#mainCarousel2 .carousel-control:hover, .myAccordion .panel-title a:hover, 
+.sFTestimonial, .paginationa span.current, .paginationa a:hover, .tagcloud a:hover, 
+.gridLink, .loaderWrap, .sF2con:hover, .sF2con.active{
+    background: #E84C3D;
+}
+
+
+
+/*********************** Border Color *************************/
+.singlePrice:hover, .singleSelectPrice{
+    border-color: #E84C3D;
+}
+
+
+.sFTestimonial a:hover{
+    color: #282828;
+}

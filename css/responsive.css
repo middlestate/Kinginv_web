@@ -1,0 +1,1488 @@
+/*
+  Theme Name: Stellar - Stellar - Creative & Agency Responsive HTML5 Template
+  Theme URL: http://themewar.com/html/stellar
+  Author: ThemeWar
+  Author URI: http://themewar.com
+  Description: Stellar is a Premium One page creative responsive HTML5 template best suitable for Design agencies, freelancers, photographers, personal portfolios etc. The template comes with 3 Home Page designs with blog pages.
+  Version: 1.0
+*/
+
+@media (min-width: 1440px)
+{
+    .banners{
+        background-position: center center;
+        background-size: cover;
+        height: 1250px;
+    }
+    .bannerDetails{
+        padding-top: 415px;
+        padding-bottom: 435px;
+    }
+    #banner .owl-pagination{
+        top: -283px;
+    }
+    .welcomeSection::before{
+        top: -841px;
+        background-position: right center;
+    }
+    .welcomText{
+        margin-top: -200px;
+    }
+    .welcomeSection{
+        padding-bottom: 555px;
+    }
+    .funfacts{
+        margin-top: -55px;
+        background-position: right top;
+    }
+    .singleTeam2.hidden{
+        display: inline-block !important;
+    }
+    .g6 {
+        margin-top: -110px;
+    }
+    .g3 {
+        width: 28.8%;
+        max-height: 405px;
+        overflow: hidden;
+    }
+    .g3 img{
+        height: 100%;
+        width: auto;
+        min-width: 100%;
+    }
+    .g4 {
+        width: 20.6%;
+        max-height: 405px;
+        overflow: hidden;
+    }
+    .g4 img{
+        height: 100%;
+        width: auto;
+        min-width: 100%;
+    }
+    .g3 {
+        width: 28.8%;
+    }
+    .g5 {
+        width: 17.24%;
+        max-height: 405px;
+    }
+}
+@media (min-width: 992px) and (max-width: 1199px){
+    .features {
+        clear: both;
+        display: table;
+    }
+    .features .container{
+        float: left;
+        width: 50%;
+    }
+    .halfImg {
+        float: left;
+        left: 0;
+        position: relative;
+        width: 45%;
+    }
+    .singleTeam2.hidden{
+        display: inline-block !important;
+    }
+    .g1 {
+        width: 21.5%;
+    }
+    .g2 {
+        width: 19%;
+    }
+    .g3 {
+        width: 25.99%;
+    }
+    .g4 {
+        width: 18.5%;
+    }
+    .g5 {
+        width: 15%;
+    }
+    .g6 {
+        margin-top: 0;
+        width: 26.6%;
+    }
+    .g7 {
+        width: 41.75%;
+    }
+    .g8 {
+        width: 31.6%;
+    }
+    .g5 img {
+        min-height: inherit;
+    }
+    .g6 {
+        margin-top: 0;
+    }
+    .subscribeForm2 p {
+        text-align: center;
+    }
+    .conInfos2 p.pMid {
+        margin-left: 40px;
+        margin-right: 40px;
+    }
+    .footer2 .copyRight {
+        line-height: 1.4;
+        padding-top: 30px;
+    }
+    .folioHover h1 {
+        font-size: 60px;
+        line-height: 60px;
+    }
+    .rightHover .folioHover {
+        right: 0;
+    }
+    .folioHover {
+        left: 0;
+    }
+    .facts {
+        margin-top: 100px;
+    }
+    .funfacts {
+        padding-top: 0;
+    }
+    .portfolios {
+        padding: 150px 0 0;
+    }
+    .callToAction {
+        padding: 220px 0 150px;
+    }
+    .footerSocial {
+        text-align: center;
+    }
+    .copyRight {
+        text-align: center;
+    }
+    .subscribeForm input[type="email"] {
+        margin-bottom: 30px;
+    }
+    .subscribeForm p {
+        text-align: center;
+    }
+    .subscribeSection {
+        padding: 313px 0 125px;
+    }
+    .contactSection {
+        padding-top: 50px;
+    }
+    .singleBlog h1 a {
+        font-size: 35px;
+        line-height: 40px;
+    }
+    .latestBlog {
+        padding-bottom: 540px;
+        padding-top: 548px;
+    }
+    .team {
+        padding: 90px 0 75px;
+    }
+    .callToActionContent h3 {
+        line-height: 1.1;
+    }
+    .twitterFeedsa {
+        margin-bottom: 30px;
+    }
+    .bannerDetails h1 {
+        line-height: 1.2;
+    }
+    .blankFolio {
+        display: none;
+    }
+    .quoteIcon {
+        left: 0;
+    }
+    .mainMenu ul li ul {
+        width: 210px;
+    }
+    .bloglistBG > img {
+        width: 100%;
+    }
+    .copyRight {
+        text-align: center;
+    }
+    .footerSocial {
+        text-align: center;
+    }
+    .relatedPosts {
+        padding: 50px 0;
+    }
+}
+@media (min-width: 768px) and (max-width: 991px){
+    /* Menu */
+    .mainMenu ul li {
+        padding-right: 20px;
+    }
+    .mainMenu ul li ul {
+        width: 190px;
+    }
+    /* Slider */
+    .slid2s h1 {
+        font-size: 100px;
+        line-height: 1;
+        margin: 60px 0 0;
+    }
+    .halfImg {
+        left: 0;
+        position: relative;
+        width: 100%;
+        margin-bottom: 60px;
+    }
+    .funfacts2 .sectionTitle2 {
+        font-size: 40px;
+        line-height: 1.2;
+    }
+    .fI2content h2 {
+        font-size: 35px;
+    }
+    .counters h4 {
+        font-size: 12px;
+    }
+    .singleTeam2.hidden{
+        display: inline-block !important;
+    }
+    .biggerHeading {
+        font-size: 90px;
+    }
+    .biggerHeading span {
+        display: block;
+    }
+    .g5 img {
+        min-height: inherit;
+    }
+    .g6 {
+        margin-top: 0;
+    }
+    .g1 {
+        width: 21.5%;
+    }
+    .g2 {
+        width: 19%;
+    }
+    .g3 {
+        width: 25.99%;
+    }
+    .g4 {
+        width: 18.5%;
+    }
+    .g5 {
+        width: 15%;
+    }
+    .g6 {
+        margin-top: 0;
+        width: 26.6%;
+    }
+    .g7 {
+        width: 41.75%;
+    }
+    .g8 {
+        width: 31.6%;
+    }
+    .subscribeForm2 input[type="email"] {
+        margin-bottom: 30px;
+    }
+    .conInfos2 p.pMid {
+        margin-left: 60px;
+        margin-bottom: 20px;
+    }
+    .subscribeForm2 p {
+        text-align: center;
+    }
+    .footer2 .copyRight {
+        line-height: 1.4;
+        padding-top: 30px;
+    }
+    .folioHover h1 {
+        font-size: 60px;
+        line-height: 60px;
+    }
+    .rightHover .folioHover {
+        right: 0;
+    }
+    .folioHover {
+        left: 0;
+    }
+    .facts {
+        margin-top: 100px;
+    }
+    .funfacts {
+        padding-top: 0;
+    }
+    .portfolios {
+        padding: 150px 0 0;
+    }
+    .callToAction {
+        padding: 220px 0 150px;
+    }
+    .footerSocial {
+        text-align: center;
+    }
+    .copyRight {
+        text-align: center;
+    }
+    .subscribeForm input[type="email"] {
+        margin-bottom: 30px;
+    }
+    .subscribeForm p {
+        text-align: center;
+    }
+    .subscribeSection {
+        padding: 313px 0 125px;
+    }
+    .contactSection {
+        padding-top: 50px;
+    }
+    .singleBlog h1 a {
+        font-size: 25px;
+        line-height: 25px;
+    }
+    .latestBlog {
+        padding-bottom: 440px;
+        padding-top: 448px;
+    }
+    .team {
+        padding: 90px 0 75px;
+    }
+    .callToActionContent h3 {
+        line-height: 1.1;
+    }
+    .twitterFeedsa {
+        margin-bottom: 30px;
+    }
+    .bannerDetails h1 {
+        line-height: 1.2;
+    }
+    .blankFolio {
+        display: none;
+    }
+    .quoteIcon {
+        left: 0;
+    }
+    .bloglistBG > img {
+        width: 100%;
+    }
+    .relatedPosts {
+        padding: 50px 0;
+    }
+    .com_inputa.marginal {
+        margin-left: 24px;
+        margin-right: 24px;
+    }
+
+
+    .firstInfo{
+        margin-top: 50px;
+    }
+    #relatedProject .carousel-control{
+        top: auto;
+        bottom: -50px;
+    }
+    #relatedProject .carousel-control.right{
+        right: 40%;
+    }
+    #relatedProject .carousel-control.left{
+        left: 40%;
+    }
+    #relatedProject .folioHover{
+        width: 100%;
+    }
+    #relatedProject .folioHover .cats a{
+        letter-spacing: 0px;
+    }
+}
+@media (min-width: 481px) and (max-width: 767px){
+    /******* Header ********/
+    .slid2s h2{
+        letter-spacing: 5px;
+        font-size: 25px;
+    }
+    .slid2s h1{
+        font-size: 70px;
+        margin-top: 30px;
+    }
+    .mainMenu ul {
+        position: absolute;
+        width: 100%;
+        background: rgba(0, 0, 0, 95);
+        left: 0;
+        top: 35px;
+        transition: none;
+        -moz-transition: none;
+        -webkit-transition: none;
+        -ms-transition: none;
+        -o-transition: none;
+    }
+    .horizontalmenu .mainMenu > ul{
+        display: none;
+        height: 300px;
+        overflow: scroll;
+    }
+    .mainMenu ul li{
+        padding: 0;
+        text-align: center;
+        width: 100%;
+        padding: 20px 0;
+        border-bottom: 1px solid #272727;
+    }
+    .fixedHeader .mainMenu > ul > li{
+        padding-bottom: 20px;
+    }
+    .mainMenu > ul > li.has-child{
+        padding-bottom: 0px;
+    }
+    .fixedHeader .mainMenu > ul{
+        top: 51px;
+    }
+    .mainMenu > ul > li > ul{
+        opacity: 1;
+        position: relative;
+        visibility: visible;
+        top: 0;
+        width: 100%;
+        margin-top: 20px;
+    }
+    .mainMenu > ul > li > ul > li{
+        text-align: center;
+    }
+    .mainMenu > ul > li:hover ul{
+        top: 0;
+    }
+    .mainMenu{
+        position: absolute;
+        right: 0;
+        top: -20px;
+        padding: 0;
+    }
+    .menuButtons{
+        margin-left: 0;
+        margin-right: 15px;
+    }
+    .fixedHeader .mainMenu {
+        padding-top: 0;
+        top: -50px;
+        position: absolute;
+    }
+    .fixedHeader .verticalMenu .mainMenu{
+        position: relative;
+        top: auto;
+    }
+    .verticalMenu .mainMenu{
+        position: relative;
+        top: auto;
+    }
+    .sectionTitle2 small{
+        line-height: 1.3;
+        letter-spacing: 5px;
+    }
+    .sectionTitle small{
+        letter-spacing: 5px;
+        line-height: 1.3;
+    }
+    .sectionTitle2{
+        font-size: 30px;
+        line-height: 1.2;
+    }
+    .halfImg{
+        position: relative;
+        width: 100%;
+        height: auto;
+        overflow: hidden;
+        left: 0;
+        margin-bottom: 50px;
+    }
+    .halfImg img{
+        width: 100%;
+        height: auto;
+    }
+    .iconBox.noMarginBottom{
+        margin-bottom: 40px !important;
+    }
+    .bootsTab{
+        margin-top: 0px;
+    }
+    .stellarTab{
+        margin-top: 40px;
+    }
+    .stellarTab li{
+        width: 100%;
+        margin-bottom: 20px;
+    }
+    .stellarTab li:last-child{
+        margin-bottom: 0px;
+    }
+    .folioNav ul li{
+        margin-right: 0;
+        margin-bottom: 20px;
+    }
+    .folioGrid2{
+        margin: 0 15px;
+    }
+    .folioItem2{
+        width: 100%;
+    }
+    .fI2content{
+        height: 60px;
+    }
+    .fI2content h2{
+        font-size: 24px;
+    }
+    .fI2Cats{
+        margin-top: 15px;
+    }
+    .callToActionContent2 h1{
+        font-size: 50px;
+    }
+    .callToActionContent2 h3{
+        font-size: 30px;
+        line-height: 1.2;
+    }
+    .singleTeam2{
+        margin-bottom: 30px;
+    }
+    .singleTeam2.hidden{
+        display: inline-block !important;
+    }
+    .biggerHeading{
+        font-size: 60px;
+        line-height: 60px;
+    }
+    .griditems{
+        width: 100%;
+        height: auto;
+        overflow: hidden;
+    }
+    .griditems img{
+        width: 100%;
+        height: auto;
+    }
+    .testiItem2 p{
+        font-size: 18px;
+        line-height: 30px;
+    }
+    #testimonialSlider2{
+        margin-top: 0px;
+    }
+    #testimonialSlider2 .carousel-indicators li h5, 
+    #testimonialSlider2 .carousel-indicators li h6{
+        display: none;
+    }
+    #testimonialSlider2 .carousel-indicators li.active{
+        height: 70px;
+        width: 70px;
+    }
+    #testimonialSlider2 .carousel-indicators{
+        margin-top: 0px;
+    }
+    .clients{
+        width: 50%;
+    }
+    .singleBlog2{
+        width: 100%;
+        margin-bottom: 30px;
+    }
+    .subscriptionSection .sectionTitle2{
+        line-height: 1.1;
+    }
+    .subscribeForm{
+        padding: 0;
+    }
+    .subscribeForm input[type="email"]{
+        width: 100%;
+        margin-bottom: 15px;
+    }
+    .subscribeForm button{
+        width: 100%;
+    }
+    .subscribeForm p{
+        line-height: 1.2;
+    }
+    .conInfos2 p{
+        width: 100%;
+        text-align: center;
+        margin-left: 0px !important;
+        margin-right: 0px !important;
+        margin-bottom: 15px !important;
+    }
+    .copyRight{
+        text-align: center;
+        line-height: 25px;
+    }
+    .footerSocial{
+        text-align: center;
+    }
+    #backToTop{
+        right: 20px;
+    }
+    .singleBlogPageHeader{
+        min-height: 400px;
+    }
+    .singleHeader{
+        padding-top: 120px;
+    }
+    .singleHeader h2{
+        font-size: 30px;
+        line-height: 35px;
+    }
+    .singleInfo .col-lg-3{
+        width: 100%;
+    }
+    .singleInfos{
+        text-align: center;
+    }
+    .authInfo{
+        text-align: center;
+    }
+    .close-button{
+        top: 30px;
+        right: 10px;
+    }
+    .copys{
+        line-height: 20px;
+    }
+    .relatedPosts{
+        padding-left: 0;
+        padding-right: 0;
+    }
+    .articlesSlider{
+        padding: 0px;
+    }
+    .singleBlog2.hidden{
+        display: block !important;
+    }
+    .commentHeading{
+        margin-bottom: 30px;
+    }
+    .socialShare{
+        text-align: left !important;
+        margin-bottom: 60px;
+    }
+    .singleCommenta{
+        padding-left: 0;
+        padding-top: 0;
+        text-align: center;
+    }
+    .singleCommenta img{
+        position: relative;
+        margin-bottom: 20px;
+    }
+    .commentLista li ul li .singleCommenta{
+        border-left: none;
+        padding-left: 0px;
+    }
+    .commentLista li ul li .singleCommenta img{
+        left: 0;
+    }
+    .commentLista li ul li{
+        padding-left: 0px;
+    }
+    .com_inputa{
+        width: 100%;
+    }
+    .com_inputa.marginal{
+        margin-left: 0;
+        margin-right: 0;
+    }
+    .counters3{
+        margin-bottom: 40px;
+    }
+    .bootsTab2 .itemContent h2{
+        letter-spacing: 3px;
+        line-height: 1.3;
+    }
+    .folioItem3{
+        float: none;
+        height: auto;
+        margin-bottom: 10px;
+        overflow: hidden;
+        width: 100%;
+    }
+    .fI3content h2{
+        letter-spacing: 2px;
+    }
+    .callToActionContent3 h1{
+        font-size: 30px;
+        letter-spacing: 5px;
+        line-height: 35px;
+    }
+    .biggerHeading2{
+        font-size: 60px;
+        line-height: 60px;
+    }
+    .skillIndicator{
+        display: none;
+    }
+    .skillDetails{
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+    .skills{
+        width: 100%;
+    }
+    .skilltitle{
+        width: 100%;
+        text-align: left;
+        padding-bottom: 10px;
+    }
+    .singleSkills{
+        margin-bottom: 20px;
+    }
+    .testiItem p{
+        font-size: 18px;
+        line-height: 30px;
+    }
+    #testimonialSlider .carousel-indicators{
+        margin-left: 0px;
+        left: 0;
+        width: 100%;
+    }
+    .singleBlog3{
+        width: 100%;
+        margin-bottom: 30px;
+    }
+    .slid3s h2{
+        font-size: 19px;
+        letter-spacing: 2px;
+    }
+    .bannerDetails h1{
+        font-size: 50px;
+        line-height: 60px;
+    }
+    .bannerDetails{
+        padding-top: 160px;
+        height: auto;
+    }
+    .bannerDetails h3{
+        font-size: 16px;
+    }
+    .banners{
+        height: 400px;
+    }
+    .welcomeSection::before{
+        top: -190px;
+        background-position: right top;
+        height: 100%;
+    }
+    .welcomText{
+        margin-top: 0px;
+    }
+    .sectionTitle{
+        font-size: 25px;
+        letter-spacing: 5px;
+        word-break: break-all;
+        line-height: 1.3;
+    }
+    .welcomHeading{
+        font-size: 30px;
+        line-height: 30px;
+    }
+    .welcomeSection{
+        padding: 100px 0 250px;
+    }
+    .funfacts{
+        padding-top: 100px;
+    }
+    .facts{
+        margin-top: 80px;
+    }
+    .counters{
+        margin-bottom: 40px;
+    }
+    .portfolios{
+        padding-top: 100px;
+    }
+    .folioHover{
+        width: 90%;
+        left: 0;
+    }
+    .folioHover h1{
+        font-size: 40px;
+        line-height: 50px;
+        margin-top: 35px;
+    }
+    .folioHover .cats a{
+        font-size: 11px;
+        letter-spacing: 0px;
+    }
+    .rightHover .folioHover{
+        right: 0px;
+        width: 90%;
+    }
+    .callToActionContent h3{
+        line-height: 1.3;
+        letter-spacing: 3px;
+    }
+    .twitterFeedsa{
+        padding-left: 30px;
+        margin-bottom: 30px;
+    }
+    .callToActionContent h5{
+        letter-spacing: 5px;
+    }
+    .latestBlog{
+        margin-top: -160px;
+        padding-top: 200px;
+    }
+    .singleBlog{
+        margin-bottom: 30px;
+    }
+    .contactSection{
+        padding-top: 100px;
+    }
+    .conInfos{
+        margin-top: 0px;
+    }
+    .page_header_item{
+        padding: 144px 0 0;
+    }
+    .page_header_item h2{
+        letter-spacing: 5px;
+    }
+    .page_header{
+        height: 320px;
+    }
+    .featuredContent h2{
+        font-size: 24px;
+        width: 100%;
+    }
+    .featuredBlog{
+        min-height: 330px;
+        height: 370px;
+    }
+    .featuredContent{
+        padding-top: 60px;
+    }
+    .bloglistBG img{
+        width: 100%;
+    }
+    .loadMOrePosts{
+        margin-top: 50px;
+    }
+    .sidebar{
+        margin-top: 50px;
+    }
+    .singleTeam {
+        display: inline-block;
+        width: 270px;
+    }
+    .team .col-lg-3{
+        text-align: center;
+    }
+    .relatedBlog .sbHeader h1 a {
+        font-size: 18px;
+        line-height: 28px;
+    }
+    .relatedBlog.singleBlog {
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+
+    .firstInfo{
+        margin-top: 50px;
+    }
+    #relatedProject .carousel-control{
+        top: auto;
+        bottom: -50px;
+    }
+
+
+    .sideMenuArea{
+        padding: 0px;
+        overflow: scroll;
+    }
+    .sideMenuArea .logo{
+        text-align: center;
+    }
+    .closeBtn{
+        top: 42px;
+    }
+    .sideMenuArea .mainMenu > ul > li.has-child{
+        padding-bottom: 20px;
+    }
+    .sideMenuArea .mainMenu ul li ul{
+        padding: 0 20px;
+        width: 100%;
+    }
+    .sideMenuArea .mainMenu{
+        padding-top: 0px !important;
+    }
+
+    .menuButtons2{
+        position: absolute;
+        right: 50px;
+        top: -27px;
+        z-index: 2;
+    }
+    .fixedHeader .menuButtons2{
+        top: -57px;
+    }
+    .horizontalmenu .mainMenu > ul > li > ul{
+        display: none;
+        transition: none;
+        -moz-transition: none;
+        -webkit-transition: none;
+        -ms-transition: none;
+        -o-transition: none;
+    }
+    .horizontalmenu .mainMenu > ul > li.has-child{
+        padding-bottom: 20px;
+    }
+    .horizontalmenu .mainMenu > ul > li ul{
+        background: none;
+    }
+    .sideMenuArea .mainMenu ul{
+        position: relative;
+    }
+    .headerSocial{
+        padding: 75px 0 30px;
+        text-align: center;
+        position: relative;
+        bottom: auto;
+    }
+}
+@media (min-width: 320px) and (max-width: 480px)
+{
+    /******* Header ********/
+    .mainMenu ul {
+        position: absolute;
+        width: 100%;
+        background: rgba(0, 0, 0, 95);
+        left: 0;
+        top: 35px;
+        transition: none;
+        -moz-transition: none;
+        -webkit-transition: none;
+        -ms-transition: none;
+        -o-transition: none;
+    }
+    .mainMenu > ul{
+        display: none;
+        height: 260px;
+        overflow: scroll;
+    }
+    .mainMenu ul li{
+        padding: 0;
+        text-align: center;
+        width: 100%;
+        padding: 20px 0;
+        border-bottom: 1px solid #272727;
+    }
+    .fixedHeader .mainMenu > ul > li{
+        padding-bottom: 20px;
+    }
+    .mainMenu > ul > li.has-child{
+        padding-bottom: 0px;
+    }
+    .fixedHeader .mainMenu > ul{
+        top: 51px;
+    }
+    .mainMenu > ul > li > ul{
+        background: #272727 none repeat scroll 0 0;
+        opacity: 1;
+        position: relative;
+        visibility: visible;
+        top: 0;
+        width: 100%;
+        margin-top: 20px;
+    }
+    .mainMenu > ul > li > ul > li{
+        text-align: center;
+    }
+    .mainMenu > ul > li:hover ul{
+        top: 0;
+    }
+    .mainMenu{
+        position: absolute;
+        right: 0;
+        top: -20px;
+        padding: 0;
+    }
+    .menuButtons{
+        margin-left: 0;
+        margin-right: 15px;
+    }
+    .fixedHeader .mainMenu {
+        padding-top: 0;
+        top: -50px;
+        position: absolute;
+    }
+
+    .slid2s h2{
+        letter-spacing: 5px;
+        font-size: 20px;
+    }
+    .slid2s h1{
+        font-size: 50px;
+    }
+
+    .sectionTitle2 small{
+        line-height: 1.3;
+        letter-spacing: 5px;
+    }
+    .sectionTitle small{
+        letter-spacing: 5px;
+        line-height: 1.3;
+    }
+    .sectionTitle2{
+        font-size: 30px;
+        line-height: 1.2;
+    }
+    .halfImg{
+        position: relative;
+        width: 100%;
+        height: auto;
+        overflow: hidden;
+        left: 0;
+        margin-bottom: 50px;
+    }
+    .halfImg img{
+        width: 100%;
+        height: auto;
+    }
+    .iconBox.noMarginBottom{
+        margin-bottom: 40px !important;
+    }
+    .bootsTab{
+        margin-top: 0px;
+    }
+    .stellarTab{
+        margin-top: 40px;
+    }
+    .stellarTab li{
+        width: 100%;
+        margin-bottom: 20px;
+    }
+    .stellarTab li:last-child{
+        margin-bottom: 0px;
+    }
+    .folioNav ul li{
+        margin-right: 0;
+        margin-bottom: 20px;
+    }
+    .folioGrid2{
+        margin: 0 15px;
+    }
+    .folioItem2{
+        width: 100%;
+    }
+    .fI2content{
+        height: 60px;
+    }
+    .fI2content h2{
+        font-size: 24px;
+    }
+    .fI2Cats{
+        margin-top: 15px;
+    }
+    .callToActionContent2 h1{
+        font-size: 50px;
+    }
+    .callToActionContent2 h3{
+        font-size: 30px;
+        line-height: 1.2;
+    }
+    .singleTeam2{
+        margin-bottom: 30px;
+    }
+    .singleTeam2.hidden{
+        display: inline-block !important;
+    }
+    .biggerHeading{
+        font-size: 60px;
+        line-height: 60px;
+    }
+    .griditems{
+        width: 100%;
+        height: auto;
+        overflow: hidden;
+    }
+    .griditems img{
+        width: 100%;
+        height: auto;
+    }
+    .testiItem2 p{
+        font-size: 18px;
+        line-height: 30px;
+    }
+    #testimonialSlider2{
+        margin-top: 0px;
+    }
+    #testimonialSlider2 .carousel-indicators li h5, 
+    #testimonialSlider2 .carousel-indicators li h6{
+        display: none;
+    }
+    #testimonialSlider2 .carousel-indicators li.active{
+        height: 70px;
+        width: 70px;
+    }
+    #testimonialSlider2 .carousel-indicators{
+        margin-top: 0px;
+    }
+    .clients{
+        width: 50%;
+    }
+    .singleBlog2{
+        width: 100%;
+        margin-bottom: 30px;
+    }
+    .subscriptionSection .sectionTitle2{
+        line-height: 1.1;
+    }
+    .subscribeForm{
+        padding: 0;
+    }
+    .subscribeForm input[type="email"]{
+        width: 100%;
+        margin-bottom: 15px;
+    }
+    .subscribeForm button{
+        width: 100%;
+    }
+    .subscribeForm p{
+        line-height: 1.2;
+    }
+    .conInfos2 p{
+        width: 100%;
+        text-align: center;
+        margin-left: 0px !important;
+        margin-right: 0px !important;
+        margin-bottom: 15px !important;
+    }
+    .copyRight{
+        text-align: center;
+        line-height: 25px;
+    }
+    .footerSocial{
+        text-align: center;
+    }
+    #backToTop{
+        right: 20px;
+    }
+    .singleBlogPageHeader{
+        min-height: 400px;
+    }
+    .singleHeader{
+        padding-top: 120px;
+    }
+    .singleHeader h2{
+        font-size: 30px;
+        line-height: 35px;
+    }
+    .singleInfo .col-lg-3{
+        width: 100%;
+    }
+    .singleInfos{
+        text-align: center;
+    }
+    .authInfo{
+        text-align: center;
+    }
+    .close-button{
+        top: 30px;
+        right: 10px;
+    }
+    .copys{
+        line-height: 20px;
+    }
+    .relatedPosts{
+        padding-left: 0;
+        padding-right: 0;
+    }
+    .articlesSlider{
+        padding: 0px;
+    }
+    .singleBlog2.hidden{
+        display: block !important;
+    }
+    .commentHeading{
+        margin-bottom: 30px;
+    }
+    .socialShare{
+        text-align: left !important;
+        margin-bottom: 60px;
+    }
+    .singleCommenta{
+        padding-left: 0;
+        padding-top: 0;
+        text-align: center;
+    }
+    .singleCommenta img{
+        position: relative;
+        margin-bottom: 20px;
+    }
+    .commentLista li ul li .singleCommenta{
+        border-left: none;
+        padding-left: 0px;
+    }
+    .commentLista li ul li .singleCommenta img{
+        left: 0;
+    }
+    .commentLista li ul li{
+        padding-left: 0px;
+    }
+    .com_inputa{
+        width: 100%;
+    }
+    .com_inputa.marginal{
+        margin-left: 0;
+        margin-right: 0;
+    }
+    .counters3{
+        margin-bottom: 40px;
+    }
+    .bootsTab2 .itemContent h2{
+        letter-spacing: 3px;
+        line-height: 1.3;
+    }
+    .folioItem3{
+        float: none;
+        height: auto;
+        margin-bottom: 10px;
+        overflow: hidden;
+        width: 100%;
+    }
+    .fI3content h2{
+        letter-spacing: 2px;
+    }
+    .callToActionContent3 h1{
+        font-size: 30px;
+        letter-spacing: 5px;
+        line-height: 35px;
+    }
+    .biggerHeading2{
+        font-size: 60px;
+        line-height: 60px;
+    }
+    .skillIndicator{
+        display: none;
+    }
+    .skillDetails{
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+    .skills{
+        width: 100%;
+    }
+    .skilltitle{
+        width: 100%;
+        text-align: left;
+        padding-bottom: 10px;
+    }
+    .singleSkills{
+        margin-bottom: 20px;
+    }
+    .testiItem p{
+        font-size: 18px;
+        line-height: 30px;
+    }
+    #testimonialSlider .carousel-indicators{
+        margin-left: 0px;
+        left: 0;
+        width: 100%;
+    }
+    .singleBlog3{
+        width: 100%;
+        margin-bottom: 30px;
+    }
+    .slid3s h2{
+        font-size: 19px;
+        letter-spacing: 2px;
+    }
+    .bannerDetails h1{
+        font-size: 50px;
+        line-height: 50px;
+    }
+    .bannerDetails{
+        padding-top: 160px;
+        height: auto;
+    }
+    .bannerDetails h3{
+        font-size: 16px;
+    }
+    .banners{
+        height: 400px;
+    }
+    .welcomeSection::before{
+        top: -190px;
+        background-position: right top;
+        height: 100%;
+    }
+    .welcomText{
+        margin-top: 0px;
+    }
+    .sectionTitle{
+        font-size: 25px;
+        letter-spacing: 5px;
+        word-break: break-all;
+        line-height: 1.3;
+    }
+    .welcomHeading{
+        font-size: 30px;
+        line-height: 30px;
+    }
+    .welcomeSection{
+        padding: 100px 0 250px;
+    }
+    .funfacts{
+        padding-top: 100px;
+    }
+    .facts{
+        margin-top: 80px;
+    }
+    .counters{
+        margin-bottom: 40px;
+    }
+    .portfolios{
+        padding-top: 100px;
+    }
+    .folioHover{
+        width: 90%;
+        left: 0;
+    }
+    .folioHover h1{
+        font-size: 40px;
+        line-height: 50px;
+        margin-top: 35px;
+    }
+    .folioHover .cats a{
+        font-size: 11px;
+        letter-spacing: 0px;
+    }
+    .rightHover .folioHover{
+        right: 0px;
+        width: 90%;
+    }
+    .callToActionContent h3{
+        line-height: 1.3;
+        letter-spacing: 3px;
+    }
+    .twitterFeedsa{
+        padding-left: 30px;
+        margin-bottom: 30px;
+    }
+    .callToActionContent h5{
+        letter-spacing: 5px;
+    }
+    .latestBlog{
+        margin-top: -160px;
+        padding-top: 200px;
+    }
+    .singleBlog{
+        margin-bottom: 30px;
+    }
+    .contactSection{
+        padding-top: 100px;
+    }
+    .conInfos{
+        margin-top: 0px;
+    }
+
+
+    .page_header_item{
+        padding: 144px 0 0;
+    }
+    .page_header_item h2{
+        letter-spacing: 5px;
+    }
+    .page_header{
+        height: 320px;
+    }
+    .featuredContent h2{
+        font-size: 24px;
+        width: 100%;
+    }
+    .featuredBlog{
+        min-height: 330px;
+        height: 370px;
+    }
+    .featuredContent{
+        padding-top: 60px;
+    }
+    .bloglistBG img{
+        width: 100%;
+    }
+    .loadMOrePosts{
+        margin-top: 50px;
+    }
+    .sidebar{
+        margin-top: 50px;
+    }
+    .sideMenuArea .mainMenu {
+        position: relative;
+        right: 0;
+        top: 0;
+    }
+    .sideMenuArea .mainMenu > ul {
+        display: block !important;
+        height: inherit;
+        overflow: inherit;
+        position: relative;
+    }
+
+
+    .firstInfo{
+        margin-top: 50px;
+    }
+    #relatedProject .carousel-control{
+        top: auto;
+        bottom: -50px;
+    }
+
+
+    .sideMenuArea{
+        padding: 0px;
+        overflow: scroll;
+    }
+    .sideMenuArea .logo{
+        text-align: center;
+    }
+    .closeBtn{
+        top: 42px;
+    }
+    .sideMenuArea .mainMenu > ul > li.has-child{
+        padding-bottom: 20px;
+    }
+    .sideMenuArea .mainMenu ul li ul{
+        padding: 0 20px;
+        width: 100%;
+    }
+    .sideMenuArea .mainMenu{
+        padding-top: 0px !important;
+    }
+
+    .menuButtons2{
+        position: absolute;
+        right: 50px;
+        top: -27px;
+        z-index: 2;
+    }
+    .fixedHeader .menuButtons2{
+        top: -57px;
+    }
+    .horizontalmenu .mainMenu > ul > li > ul{
+        display: none;
+        transition: none;
+        -moz-transition: none;
+        -webkit-transition: none;
+        -ms-transition: none;
+        -o-transition: none;
+    }
+    .horizontalmenu .mainMenu > ul > li.has-child{
+        padding-bottom: 20px;
+    }
+    .horizontalmenu .mainMenu > ul > li ul{
+        background: none;
+    }
+    .headerSocial{
+        padding: 75px 0 30px;
+        text-align: center;
+        position: relative;
+        bottom: auto;
+    }
+    .logo a{
+        position: relative;
+        z-index: 2;
+    }
+}
